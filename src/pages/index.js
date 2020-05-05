@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi! Give a digital voice to your Brand</h1>
-    <h2>In 2020 the most influencial companies are offering premium digital experiences to their users.</h2>
-    <p>Together we can build something great to reflect your real value trough your brand.</p>
+    <h2>In 2020, the most influencial companies are offering premium digital experiences to their users.</h2>
+    <p>Together we can build something great to reflect your real company value trough your brand.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
